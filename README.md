@@ -40,3 +40,6 @@ $ pip install -r requirements.txt
    ```bash
    $ python real_time_sign_to_speech.py
    ```
+3. Test sign to text with video file
+   - To test the sign to text functionality with a video file, run the following script:
+   Run => test_sign_to_text_with_video_file.ipynb 
